@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 setuptools.setup(
     name="lambdata-navroz",
-    version="0.0.1",
+    version="0.0.2",
     author="Navroz Lamba",
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
